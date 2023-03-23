@@ -1,0 +1,32 @@
+{
+      "teams":[
+         {
+            "id":10,
+            "name":"Chicago Bulls",
+            "shortName":"Bulls",
+            "location":"Chicago",
+            "score":450
+         },
+         {
+            "id":20,
+            "name":"Atlanta Hawks",
+            "shortName":"Hawks",
+            "location":"Atlanta",
+            "score":350
+         },
+         {
+            "id":30,
+            "name":"Miami Heat",
+            "shortName":"Heat",
+            "location":"Miami",
+            "score":195
+         },
+         {
+            "id":40,
+            "name":"Los Angeles Lakers",
+            "shortName":"Lakers",
+            "location":"LA",
+            "score":155
+         }
+      ]
+   }
